@@ -1,9 +1,13 @@
 ### Site Settings ###
-title               : Hafıkan Yeşilyurt
+title               : Hafikan Yeşilyurt
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      As an engineer specialized in 
+                      embedded systems, robotic applications,
+                      and ground control software, I lead
+                      technology projects and deliver 
+                      end-to-end solutions."
+
+
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          :       # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -20,11 +24,12 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  
 
 
 ### Author Info ###
 author:
-  name              : Hafıkan Yeşilyurt
+  name              : Hafikan Yeşilyurt
   image             : https://avatars.githubusercontent.com/u/69692206?v=4
 # behance           : your_username
 # dribbble          : your_username
@@ -61,7 +66,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: Cerb # Your website Shortname on disqus
 
 
 ### Analytics ###

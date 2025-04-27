@@ -1,17 +1,113 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title:  Embedded Software Developer and Team Leader | Solid Aero
+  from: 09/2024
+  to: 05/2025
+  description: I worked as an Embedded Software Developer and Team Leader in a team
+              focused on developing and researching various UAV concepts and applications in 
+              the aviation sector. I actively contributed to end-to-end software solutions for 
+              "Talay," the world’s first low-altitude multi-purpose UAV, and "ZADA," a medium-range
+              VTOL fixed-wing UAV. I developed C and C++ based firmware to integrate ground effect
+              algorithms into flight control software. I designed a system enabling ISR payloads
+              to transmit Full HD video streams at 8 Mbps with 200 ms latency during flights. 
+              Additionally, I developed ground unit control systems capable of 100 km data 
+              transmission over the 1.4 GHz band, along with operator interfaces based on
+              Qt Framework, JavaScript, and C++. I applied object-oriented design patterns 
+              to ensure efficient and sustainable software architecture. I enhanced LRS-based
+              data and telemetry systems for jamming resilience by developing solutions 
+              operating on the P frequency band. Beyond development, I led project management
+              and customer/investor presentation processes, strengthening communication 
+              channels. Working in a high-paced environment with flexible hours, I adopted
+              Agile methodologies to boost team collaboration and managed project tracking
+              through JIRA, MS Project, and Notion.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                 
+                
+
+- title: Project Development Manager | Boni Global
+  from: 03/2024
+  to: 09/2024
+  description: At Boni Global, an engineering firm actively operating in the field of
+                Industrial Aviation and Unmanned Aerial Vehicle (UAV) systems, I served as a Project
+                Development Manager. In this role, I led software development projects for UAVs and
+                UAV systems, actively participating in all stages from project initiation to delivery.
+                During the project management process, I took responsibility for critical
+                tasks such as project planning, resource allocation, risk management, and
+                progress tracking. I effectively applied Agile methodologies to foster
+                strong communication and collaboration among team members. I continuously
+                monitored project goals to ensure timely and budget-compliant delivery,
+                taking corrective actions when necessary.
+                Additionally, I managed field testing processes for developed products,
+                contributing to improving product quality and ensuring active monitoring
+                and updates throughout the lifecycle.
+
+
+- title: Embedded Software Developer and Team Leader | Hiyellab
+  from: 04/2023
+  to: 01/2024
+  description: I worked as a Developer and Team Leader at Hiyellab, a company focused on
+              the development and research of IoT-based systems for the Machinery and Industrial
+              sectors. During this time, I actively contributed to two major projects. The first
+              project involved the development of a Tethered Lighting Drone and a Drone Port
+              system. I was responsible for developing C++ and Python-based mission software 
+              for a hexacopter platform and integrating key avionics components such as a 
+              SoM-based mission computer, power management systems, and control mechanisms 
+              for emergency lighting scenarios. I collaborated with a 14-member team, contributing
+              to project management and investor/customer presentations, while enhancing team
+              communication through Agile methodologies. The second project was the development
+              of an IoT-based Smart Water Consumption System. In this project, I developed 
+              embedded software for ESP and LoRa-based irrigation control mechanisms, enabling
+              interactive user control over Wi-Fi and Bluetooth protocols. I also contributed
+              to prototyping multi-node communication algorithms in LoRaWAN-based systems.
+
+- title: Software Developer | Ada Güzey R&D
+  from: 02/2022
+  to: 09/2023
+  description: I worked as a Software Developer at Ada Güzey R&D, supported by the EIM Consortium.
+                I contributed to two key projects during this time. The first project was the "TikiTaka Pass
+                Trainer," commissioned by the Ministry of Youth and Sports to promote sports habits among 
+                Turkish youth. In this project, we developed a real-time electromechanical system with 20 sensors
+                integrated into a kiosk-based application. Using JavaScript and Django frameworks for user 
+                interaction, and an embedded Linux system running on a Single Board Computer, we achieved 
+                synchronized operation with a 15ms response time. Throughout the project, I gained extensive
+                experience with C++, C, Python, and embedded development on Arch Linux systems.
+
+                The second project involved the development of a 4G-based Cargo Drone and Drone Port system,
+                funded by the European Union under a partnership model. I was responsible for designing the
+                avionics systems of both the drone and the port, developing 4G communication architectures,
+                implementing autonomous navigation integrated with the drone port, and building human-machine
+                interaction interfaces. The telemetry and data transmission system was cloud-synchronized 
+                across the drone, the drone port, and the operator interface with approximately 200ms latency.
+                Throughout the project, I maintained regular communication with stakeholders and consortium juries,
+                delivering multiple presentations. The project concluded with a successful final presentation 
+                to the Municipality of Belgrade, Serbia.
+
+- title: Intern | Serkon Technology
+  from: 07/2022
+  to: 08/2022
+  description: I worked as an intern in the R&D Department at Serkon Teknoloji, a company specializing
+              in textile machinery and fabric inspection systems, exporting to over 70 countries.
+              During my internship, I conducted current and voltage analyses of laser cutting 
+              machine stepper motor drivers in both time and frequency domains to detect motor 
+              faults. I also developed bare-metal programming on STM32-based ARM microcontrollers 
+              and implemented signal processing algorithms for stepper motor drivers in the 
+              frequency domain. I actively used C and C++ programming languages throughout 
+              the projects. Although I was offered a position as an R&D Engineer at the end 
+              of my internship, I declined the offer to continue my university education.
+
+- title: Junior Software Develoepr | Kapsam Electromachina
+  from: 01/2022
+  to: 07/2022
+  description: I worked as a Junior Software Developer at Kapsam Elektromakina, a company specializing
+              in industrial automation and control systems. During this time, I volunteered in two different
+              projects. In the first project, I contributed to the productization of a complex industrial
+              automation system involving PLCs, conveyor belts, HMI systems, and Local Binary Pattern 
+              (LBP)-based deep learning algorithms. I developed Qt-based HMI interfaces and implemented
+              control mechanisms for marble blocks of four different quality levels transported on 
+              conveyor belts, actively using C++ and Python programming languages. In the second project,
+              I participated in the development of an Underground Power Line Detector, supported by 
+              state-backed semi-private electricity distribution companies. I worked on embedded software
+              development for STM32-based ARM microcontrollers, processing three different coil signals 
+              simultaneously and analyzing them in the frequency domain to detect underground lines. I also
+              developed bare-metal drivers for signal codecs and designed signal processing algorithms 
+              involving DMA and FMAC units. As a result, I successfully integrated all subsystems with a 
+              latency of approximately 14 ms.
+

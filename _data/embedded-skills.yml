@@ -1,0 +1,33 @@
+- name: STM32-based Signaling Algorithms
+  percentage: 85
+  color: secondary
+- name: NXP Based SoM Board Programming
+  percentage: 85
+  color: primary
+
+- name: Bare-Metal Driver Programming
+  percentage: 95
+  color: danger
+
+- name: RS232/485, UART/USART Protocols
+  percentage: 95
+  color: info
+
+- name: I2C, SPI, and I2S Protocols
+  percentage: 95
+  color: info
+
+- name: Filter Design & Implementation
+  percentage: 80
+  color: secondary
+
+- name: CMake, Makefile, and CMakeLists
+  percentage: 80
+  color: success
+
+- name : Yocto Project
+  percentage: 60
+  color: secondary
+
+
+ 

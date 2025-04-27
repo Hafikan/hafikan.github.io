@@ -1,11 +1,33 @@
-- name: HTML5/CSS3
+- name: C++ [11, 14, 17]
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
-
 - name: Python
-  percentage: 70
+  percentage: 95
+  color: primary
+  
+- name: C
+  percentage: 80
   color: secondary
+
+- name: Valgrind, GDB, Inspector
+  percentage: 75
+  color: warning
+
+- name: JavaScript
+  percentage: 75
+  color: success
+
+- name: Multi-Thread Programming and Paralell Computing
+  percentage: 80
+  color: danger
+
+  
+- name: Object Oriented Design Patterns and Implementations/Developing
+  percentage: 80
+  color: info
+
+    
+- name: Software Development Life Cycle
+  percentage: 90
+  color: success

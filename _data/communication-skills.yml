@@ -1,0 +1,18 @@
+- name: Development of TCP & UDP Based Systems
+  percentage: 95
+  color: info
+
+- name: Socket Programming
+  percentage: 90
+  color: success
+
+
+- name: Long-range communication modules based on CRSF, Express LRS, and MavLink
+  percentage: 95
+  color: success
+
+
+- name: UAV imaging systems based on RTSP, RTP, and RTMP
+  percentage: 95
+  color: primary
+
