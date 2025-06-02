@@ -5,10 +5,9 @@ tools: [UAV Development, 4G, LTE, Atmel AVR Programming, AWS CLOUD, Python, C, C
 image: https://adaguzey.com/wp-content/uploads/2024/05/Droneport.jpg
 description: My contributions to this project included the development of an innovative droneport system that facilitates efficient takeoff and landing operations for drones. Additionally, I designed GSM-based communication software to ensure seamless interaction between the drones, the droneport, and the central computer. 
 ---
-# 4G/LTE-Based Smart Droneport and CoPilot Control System
+# 4G/LTE-Based Droneport, Quad-Copter and CoPilot Control System
 
 This project involved the development of an intelligent droneport system tailored for urban delivery drones, along with a custom-designed 4G/LTE-based communication protocol. The system enables autonomous and secure data exchange between drones, the droneport, and a user interface with approximately 200 ms latency. The Co-Pilot interface, built with Qt and Python, empowers users with both manual and autonomous mission control capabilities.
-
 
 
 ![preview](/images/2025-06-02_15-25.png)
