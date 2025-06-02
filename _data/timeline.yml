@@ -80,20 +80,9 @@
                 delivering multiple presentations. The project concluded with a successful final presentation 
                 to the Municipality of Belgrade, Serbia.
 
-- title: Intern | Serkon Technology
-  from: 07/2022
-  to: 08/2022
-  description: I worked as an intern in the R&D Department at Serkon Teknoloji, a company specializing
-              in textile machinery and fabric inspection systems, exporting to over 70 countries.
-              During my internship, I conducted current and voltage analyses of laser cutting 
-              machine stepper motor drivers in both time and frequency domains to detect motor 
-              faults. I also developed bare-metal programming on STM32-based ARM microcontrollers 
-              and implemented signal processing algorithms for stepper motor drivers in the 
-              frequency domain. I actively used C and C++ programming languages throughout 
-              the projects. Although I was offered a position as an R&D Engineer at the end 
-              of my internship, I declined the offer to continue my university education.
 
-- title: Junior Software Develoepr | Kapsam Electromachina
+
+- title: Junior Software Developer | Kapsam Electromachina
   from: 01/2022
   to: 07/2022
   description: I worked as a Junior Software Developer at Kapsam Elektromakina, a company specializing
@@ -111,3 +100,15 @@
               involving DMA and FMAC units. As a result, I successfully integrated all subsystems with a 
               latency of approximately 14 ms.
 
+- title: Intern | Serkon Technology
+  from: 07/2021
+  to: 08/2021
+  description: I worked as an intern in the R&D Department at Serkon Teknoloji, a company specializing
+              in textile machinery and fabric inspection systems, exporting to over 70 countries.
+              During my internship, I conducted current and voltage analyses of laser cutting 
+              machine stepper motor drivers in both time and frequency domains to detect motor 
+              faults. I also developed bare-metal programming on STM32-based ARM microcontrollers 
+              and implemented signal processing algorithms for stepper motor drivers in the 
+              frequency domain. I actively used C and C++ programming languages throughout 
+              the projects. Although I was offered a position as an R&D Engineer at the end 
+              of my internship, I declined the offer to continue my university education.

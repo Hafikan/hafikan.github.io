@@ -18,6 +18,9 @@
   percentage: 75
   color: success
 
+- name: Docker
+  percentage: 75
+  color: warning  
 - name: Multi-Thread Programming and Paralell Computing
   percentage: 80
   color: danger
