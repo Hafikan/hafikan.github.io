@@ -2,7 +2,7 @@
 name: Tethered Lightning Drone & Droneport for Disaster Response
 
 tools: [UAV Development, Energy Monitoring, Tethered Drones, Atmel AVR Programming, Python, C, C++,   ROS]
-image: hafikan.github.io/images/OrnekGorsel.jpeg
+image: https://aydinlatma.org/wp-content/uploads/2023/02/Aydinlatma-Drone.jpg
 description: This project focused on developing a tethered hexa-copter system and an associated smart droneport to meet the unique demands of disaster response scenarios, such as nighttime search and rescue, area illumination, and continuous aerial monitoring.
 ---
 # Tethered Lightning Drone & Droneport System Prototype (Disaster Response)
